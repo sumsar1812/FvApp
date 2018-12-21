@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Freayville</string>
+    <string name="password">Password</string>
+    <string name="registerBtn">Register</string>
+    <string name="indtast_kode">Indtast kode</string>
+    <string name="continue_reg_btn">Accept</string>
+    <string name="reg_code_help">For at generate en kode skal du skrive \'/android\' på en af serverne. Serveren sender en kode som du skal indtaste her under</string>
+</resources>
